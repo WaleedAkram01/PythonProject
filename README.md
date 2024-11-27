@@ -1,6 +1,6 @@
 # PythonProject
 
-## Assalam o Alaikum, Faraz here so I have started to contribution your project
+## Assalam o Alaikum, Faraz here so I have started to contribution on your project
 
 - Check the code if you don't understand use ChatGPT
 
